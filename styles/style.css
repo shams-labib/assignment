@@ -420,6 +420,12 @@
     .offer-grid {
     grid-template-columns: 1fr;
   }
+  .offer-big-title {
+    font-size: 18px;
+  }
+  .offer-big-sub {
+    font-size: 14px;
+  }
 
   .left-column {
     grid-template-rows: none;
